@@ -27,7 +27,7 @@ mpss:1234
 run server : npm start
 run client npm start
 bdd mongoos :
-mongoose atlas 
+mongoos atlas 
 localhost
 
 
