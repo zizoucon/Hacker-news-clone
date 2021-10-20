@@ -44,7 +44,7 @@ const Form = ({ currentId, setCurrentId }) => {
     return (
       <Paper className={classes.paper} elevation={6}>
         <Typography variant="h6" align="center">
-        Veuillez vous connecter pour créer vos propres souvenirs et aimer les souvenirs des autres.
+        Veuillez vous connecter pour créer vos propres postes et aimer les postes des autres.
         </Typography>
       </Paper>
     );
